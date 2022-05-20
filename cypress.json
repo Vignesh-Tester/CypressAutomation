@@ -1,0 +1,10 @@
+{
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 60000,
+  "reporter" : "Mochawesome",
+  "env": {
+    "url": "https://rahulshettyacademy.com/angularpractice/"
+  },
+  "testFiles": "**/*.feature",
+  "projectId": "rtnvy4"
+}
